@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 echo "                                                                 "
-echo "                         LBC SETUP                               "
+echo "                         LBC SETUP v.2                           "
 echo "                      Made by: Shambles                          "
 echo "                        AUTO SCRIPT                              "
 echo "                                                                 "
